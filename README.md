@@ -4,7 +4,7 @@
 
 ---
 
-## 👥 Group Members & Contributions
+## Group Members & Contributions
 
 | Name | Student ID | Contribution |
 | :--- | :--- | :--- |
